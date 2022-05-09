@@ -43,4 +43,4 @@ Host in any platform, codes are responsive as well as friendly and simple to und
 * In sources select main branch ( by default none is selected ) and click on Save then you will get your web link ( you can also add your custom domain that option is at the end of same page). 
 * Your web is ready!
 
-<h5>Inspired from xditya.me</h5>
+<h5>Inspired from wtf_Brutal.me</h5>
