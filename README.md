@@ -6,7 +6,7 @@
 
 <p> Join our group for more templates and updates <a href="https://t.me/TheXCodeTeam"><b>𝗧𝗲𝗮𝗺 𝗫 𝗖𝗼𝗱𝗲</b></a></p>
 
-<img src="https://telegra.ph/file/3079bbc16268df5d742f0.jpg">
+<img src="https://telegra.ph//file/08f70fa9464a522ef465d.jpg">
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/Badnam-xD/Badnam-xD.github.io)
